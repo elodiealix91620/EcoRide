@@ -94,7 +94,7 @@
             <mxPoint x="730" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-72" value="vérifie les données et les enregistre dans la base de données" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="qdlLrYearcyVOZp8sTBb-2">
+        <mxCell id="qdlLrYearcyVOZp8sTBb-72" value="vérifie les données et les enregistre dans la base de données" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" target="qdlLrYearcyVOZp8sTBb-2">
           <mxGeometry x="0.0019" relative="1" as="geometry">
             <mxPoint x="770" y="230" as="sourcePoint" />
             <Array as="points">
