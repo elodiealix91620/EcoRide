@@ -58,7 +58,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="qdlLrYearcyVOZp8sTBb-1" value="Base de données" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1330" y="40" width="100" height="300" as="geometry" />
+          <mxGeometry x="1040" y="40" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="qdlLrYearcyVOZp8sTBb-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="qdlLrYearcyVOZp8sTBb-1">
           <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
@@ -69,13 +69,29 @@
         <mxCell id="qdlLrYearcyVOZp8sTBb-48" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="qdlLrYearcyVOZp8sTBb-47">
           <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-49" value="renseigne les informations pour se connecter ou créer son compte" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="qdlLrYearcyVOZp8sTBb-2">
+        <mxCell id="qdlLrYearcyVOZp8sTBb-49" value="vérifie les données et les enregistre dans la base de données" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="qdlLrYearcyVOZp8sTBb-2">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="750" y="120" as="sourcePoint" />
             <Array as="points">
               <mxPoint x="730" y="120" />
             </Array>
             <mxPoint x="865" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-51" value="xx" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="qdlLrYearcyVOZp8sTBb-47">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1130" y="120" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1090" y="120" />
+            </Array>
+            <mxPoint x="1465" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-52" value="retourne un message qui confirme l&#39;enregistrement&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1085" y="160" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="730" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
