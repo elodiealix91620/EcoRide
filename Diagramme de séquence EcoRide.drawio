@@ -33,7 +33,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-8" value="return" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-2" edge="1">
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-8" value="publie la proposition de trajet sur le site" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="195" y="205" as="targetPoint" />
             <Array as="points">
@@ -94,14 +94,22 @@
             <mxPoint x="730" y="160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-72" value="vérifie les données et les enregistre dans la base de données" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" target="qdlLrYearcyVOZp8sTBb-2">
+        <mxCell id="qdlLrYearcyVOZp8sTBb-72" value="transmets les données pour les enregistree dans la base de données" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" target="qdlLrYearcyVOZp8sTBb-2">
           <mxGeometry x="0.0019" relative="1" as="geometry">
             <mxPoint x="770" y="230" as="sourcePoint" />
             <Array as="points">
+              <mxPoint x="750" y="230" />
               <mxPoint x="670" y="230" />
             </Array>
             <mxPoint x="1080" y="230" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-73" value="retourne un message qui confirme l&#39;enregistrement des données&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="280" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="680" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
