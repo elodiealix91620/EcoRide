@@ -246,265 +246,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-98" value="Passager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="140" y="910" width="100" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-99" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="qdlLrYearcyVOZp8sTBb-98">
-          <mxGeometry x="45" y="70" width="10" height="190" as="geometry" />
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-100" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="qdlLrYearcyVOZp8sTBb-98" target="qdlLrYearcyVOZp8sTBb-99">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-15" y="70" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-101" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="qdlLrYearcyVOZp8sTBb-98">
-          <mxGeometry x="50" y="120" width="10" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-102" value="Application de covoiturage" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="720" y="910" width="100" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-103" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="qdlLrYearcyVOZp8sTBb-102">
-          <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-104" value="renseigne les informations pour se connecter ou créer son compte&amp;nbsp;&lt;div&gt;(nom, prénom, email, mot de passe, pseudo, téléphone, rôle)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-99" target="qdlLrYearcyVOZp8sTBb-103">
-          <mxGeometry x="0.0027" relative="1" as="geometry">
-            <mxPoint x="295" y="1000" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="280" y="990" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-106" value="confirme à l&#39;utilisateur sa création de compte ou sa connexion" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-103" target="qdlLrYearcyVOZp8sTBb-101">
-          <mxGeometry x="-0.001" relative="1" as="geometry">
-            <mxPoint x="275" y="1030" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="290" y="1030" />
-            </Array>
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-107" value="Base de données" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1190" y="900" width="100" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-108" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="qdlLrYearcyVOZp8sTBb-107">
-          <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-109" value="Crédits" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="1540" y="910" width="100" height="300" as="geometry" />
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-110" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="qdlLrYearcyVOZp8sTBb-109">
-          <mxGeometry x="45" y="80" width="10" height="170" as="geometry" />
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-111" value="vérifie les données et les enregistre dans la base de données" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="qdlLrYearcyVOZp8sTBb-108">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="780" y="990" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="770" y="990" />
-            </Array>
-            <mxPoint x="965" y="990" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-112" value="xx" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="qdlLrYearcyVOZp8sTBb-109">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1230" y="990" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1190" y="990" />
-            </Array>
-            <mxPoint x="1565" y="990" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-113" value="retourne un message qui confirme l&#39;enregistrement ou de connexion&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="qdlLrYearcyVOZp8sTBb-103">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1185" y="1030" as="sourcePoint" />
-            <Array as="points" />
-            <mxPoint x="830" y="1030" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-114" value="transmets les données pour les enregistrer dans la base de données" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-103" target="qdlLrYearcyVOZp8sTBb-108">
-          <mxGeometry x="0.0019" relative="1" as="geometry">
-            <mxPoint x="840" y="1100" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="800" y="1100" />
-              <mxPoint x="770" y="1100" />
-            </Array>
-            <mxPoint x="1180" y="1100" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-115" value="retourne un message qui confirme l&#39;enregistrement des données&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1190" y="1130" as="sourcePoint" />
-            <Array as="points" />
-            <mxPoint x="780" y="1130" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-116" value="si place disponible, notifie le conducteur lorsqu&#39;un passager réserve un trajet jusqu&#39;à ce qu&#39;il n&#39;y ait plus de place dans le véhicule" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="1230" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="295" y="1230" />
-            </Array>
-            <mxPoint x="770" y="1230" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-120" value="&lt;div&gt;Le passager recherche un trajet disponible correspondant à ses critères&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.0027" relative="1" as="geometry">
-            <mxPoint x="190" y="1160" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="275" y="1160" />
-            </Array>
-            <mxPoint x="760" y="1160" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-121" value="vérifie la disponibilité de la place, sinon renvoie les propositions les plus proches en terme de date" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1210" y="1180" as="sourcePoint" />
-            <Array as="points" />
-            <mxPoint x="800" y="1180" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-122" value="si la place est toujours disponible, retourne un message qui confirme son inscription sinon&lt;div&gt;retourne une proposition d&#39;un trajet correspondant avec une autre date&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="1200" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="315" y="1200" />
-            </Array>
-            <mxPoint x="790" y="1200" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-123" value="indique à la base de données que le trajet est terminé et déclenche l&#39;envoi d&#39;un email automatique pour l&#39;évaluation" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1200" y="1350" as="sourcePoint" />
-            <Array as="points" />
-            <mxPoint x="790" y="1350" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-124" value="Il reçoit un email pour évaluer" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="1390" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="285" y="1390" />
-            </Array>
-            <mxPoint x="760" y="1390" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-125" value="si l&#39;évaluation côté passager est positive&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.0027" relative="1" as="geometry">
-            <mxPoint x="200" y="1440" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="285" y="1440" />
-            </Array>
-            <mxPoint x="770" y="1440" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-126" value="transmets les données pour finaliser le trajet" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.0019" relative="1" as="geometry">
-            <mxPoint x="800" y="1440" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="825" y="1440" />
-              <mxPoint x="795" y="1440" />
-            </Array>
-            <mxPoint x="1260" y="1440" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-127" value="procède à la mise à jour des crédits passager (qui sont débités) et conducteur (qui est crédité)" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.0019" relative="1" as="geometry">
-            <mxPoint x="1230" y="1440" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1255" y="1440" />
-              <mxPoint x="1225" y="1440" />
-            </Array>
-            <mxPoint x="1690" y="1440" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-128" value="indique que les crédits sont mis à jour&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1220" y="1500" as="sourcePoint" />
-            <Array as="points" />
-            <mxPoint x="810" y="1500" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-129" value="les participants reçoivent une confirmation de mise à jour des crédits ainsi que leur nouveau solde crédit" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="200" y="1510" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="295" y="1510" />
-            </Array>
-            <mxPoint x="770" y="1510" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-130" value="si l&#39;évaluation côté passager est négative&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.0027" relative="1" as="geometry">
-            <mxPoint x="200" y="1560" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="285" y="1560" />
-            </Array>
-            <mxPoint x="770" y="1560" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-131" value="transmets les données pour le signaler à un employé&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.0019" relative="1" as="geometry">
-            <mxPoint x="790" y="1560" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="815" y="1560" />
-              <mxPoint x="785" y="1560" />
-            </Array>
-            <mxPoint x="1250" y="1560" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-132" value="procède au blocage temporaire de la mise à jour des crédits&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.0019" relative="1" as="geometry">
-            <mxPoint x="1230" y="1560" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="1255" y="1560" />
-              <mxPoint x="1225" y="1560" />
-            </Array>
-            <mxPoint x="1690" y="1560" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-133" value="le conducteur est contacté par un employé pour éclaircir le problème" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="1610" as="sourcePoint" />
-            <Array as="points" />
-            <mxPoint x="290" y="1610" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-134" value="renseigne son rôle et sa photo" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.0027" relative="1" as="geometry">
-            <mxPoint x="200" y="1010" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="285" y="1010" />
-            </Array>
-            <mxPoint x="770" y="1010" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-135" value="le conducteur donne des explications" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="700" y="1650" as="sourcePoint" />
-            <Array as="points" />
-            <mxPoint x="290" y="1650" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-136" value="soit le problème est résolu et l&#39;employé&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry x="0.0019" relative="1" as="geometry">
-            <mxPoint x="770" y="1650" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="795" y="1650" />
-              <mxPoint x="765" y="1650" />
-            </Array>
-            <mxPoint x="1230" y="1650" as="targetPoint" />
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qdlLrYearcyVOZp8sTBb-137" value="transmets les données à la base" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-5" target="qdlLrYearcyVOZp8sTBb-2">
           <mxGeometry x="0.0027" relative="1" as="geometry">
             <mxPoint x="690" y="150" as="sourcePoint" />
@@ -589,15 +330,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-147" value="notifie le passager si le conducteur annule le trajet" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="190" y="1280" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="285" y="1280" />
-            </Array>
-            <mxPoint x="760" y="1280" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="qdlLrYearcyVOZp8sTBb-148" value="transmets les données pour les enregistrer dans la base de données" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0019" relative="1" as="geometry">
             <mxPoint x="669.3888888888889" y="250" as="sourcePoint" />
@@ -616,6 +348,352 @@
               <mxPoint x="186" y="600" />
             </Array>
             <mxPoint x="640" y="600" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-186" value="Passager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#E6FFCC;" vertex="1" parent="1">
+          <mxGeometry x="70" y="835" width="100" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-187" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="qdlLrYearcyVOZp8sTBb-186">
+          <mxGeometry x="45" y="70" width="10" height="650" as="geometry" />
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-188" value="dispatch" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="qdlLrYearcyVOZp8sTBb-186" target="qdlLrYearcyVOZp8sTBb-187">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-15" y="70" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-189" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="qdlLrYearcyVOZp8sTBb-186">
+          <mxGeometry x="50" y="150" width="10" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-190" value="Application de covoiturage" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#66FFFF;" vertex="1" parent="1">
+          <mxGeometry x="650" y="835" width="100" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-191" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="qdlLrYearcyVOZp8sTBb-190">
+          <mxGeometry x="45" y="80" width="10" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-192" value="renseigne les informations pour se connecter ou créer son compte&amp;nbsp;&lt;div&gt;(nom, prénom, email, mot de passe, pseudo, téléphone)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-187" target="qdlLrYearcyVOZp8sTBb-191">
+          <mxGeometry x="0.0019" relative="1" as="geometry">
+            <mxPoint x="225" y="925" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="210" y="915" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-193" value="si la place est toujours disponible, retourne un message qui confirme son inscription sinon&lt;div&gt;retourne une proposition d&#39;un trajet correspondant avec une autre date&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="119.38888888888891" y="1095" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="220" y="1095" />
+            </Array>
+            <mxPoint x="699.4999999999998" y="1095" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-194" value="confirme à l&#39;utilisateur sa création de compte et l&#39;attribution de 20 crédits ou sa connexion&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="qdlLrYearcyVOZp8sTBb-189">
+          <mxGeometry x="-0.001" relative="1" as="geometry">
+            <mxPoint x="695" y="985" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="220" y="985" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-195" value="Base de données" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#FF9999;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="830" width="100" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-196" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="qdlLrYearcyVOZp8sTBb-195">
+          <mxGeometry x="45" y="80" width="10" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-197" value="Crédits" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#FFCC99;" vertex="1" parent="1">
+          <mxGeometry x="1530" y="830" width="100" height="730" as="geometry" />
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-198" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="qdlLrYearcyVOZp8sTBb-197">
+          <mxGeometry x="45" y="80" width="10" height="630" as="geometry" />
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-199" value="vérifie les données et les enregistre dans la base de données" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="qdlLrYearcyVOZp8sTBb-196">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="915" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="700" y="915" />
+            </Array>
+            <mxPoint x="895" y="915" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-200" value="retourne un message qui confirme l&#39;enregistrement et l&#39;attribution des crédits ou la connexion&amp;nbsp;&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-196" target="qdlLrYearcyVOZp8sTBb-190">
+          <mxGeometry x="-0.0335" relative="1" as="geometry">
+            <mxPoint x="1115" y="985" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="760" y="985" />
+            </Array>
+            <mxPoint x="740" y="985" as="targetPoint" />
+            <mxPoint x="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-201" value="retourne un message qui confirme l&#39;enregistrement des données&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1179.5000000000005" y="1094.9955555555555" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="705" y="1094.9955555555555" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-202" value="notifie le passager si le conducteur annule le trajet" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="119.38888888888891" y="1125" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="215" y="1125" />
+            </Array>
+            <mxPoint x="699.4999999999998" y="1125" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-203" value="le conducteur clique sur le bouton pour démarrer le trajet" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0027" relative="1" as="geometry">
+            <mxPoint x="119.38888888888891" y="1155" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="205" y="1155" />
+            </Array>
+            <mxPoint x="699.4999999999998" y="1155" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-204" value="le conducteur clique sur le bouton pour arrêter le trajet" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-186" target="qdlLrYearcyVOZp8sTBb-190">
+          <mxGeometry x="0.0027" relative="1" as="geometry">
+            <mxPoint x="140" y="1199" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="205" y="1199.44" />
+            </Array>
+            <mxPoint x="690" y="1199.44" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-205" value="Le passager recherche un trajet disponible correspondant à ses critères" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-186" target="qdlLrYearcyVOZp8sTBb-191">
+          <mxGeometry x="0.0028" relative="1" as="geometry">
+            <mxPoint x="160" y="1045" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="215" y="1045" />
+            </Array>
+            <mxPoint x="690" y="1045" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-206" value="Déclenche l&#39;envoi d&#39;un email automatique pour l&#39;évaluation" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0022" relative="1" as="geometry">
+            <mxPoint x="1179.5000000000005" y="1234.5555555555554" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="705" y="1234.5555555555554" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-207" value="Reçoit un email pour évaluer le trajet" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="119.38888888888891" y="1235" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="215" y="1235" />
+            </Array>
+            <mxPoint x="699.4999999999998" y="1235" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-208" value="si l&#39;évaluation côté passager est positive, l&#39;employé valide l&#39;avis&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0027" relative="1" as="geometry">
+            <mxPoint x="130" y="1275" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="215" y="1275" />
+            </Array>
+            <mxPoint x="700" y="1275" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-209" value="transmets les données pour finaliser le paiement" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" target="qdlLrYearcyVOZp8sTBb-196">
+          <mxGeometry x="0.0019" relative="1" as="geometry">
+            <mxPoint x="704" y="1275" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="729" y="1275" />
+              <mxPoint x="699" y="1275" />
+            </Array>
+            <mxPoint x="1164" y="1275" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-210" value="procède à la mise à jour des crédits passager&amp;nbsp;&lt;div&gt;(qui sont débités) et conducteur (qui est crédité)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" target="qdlLrYearcyVOZp8sTBb-198">
+          <mxGeometry x="0.0019" relative="1" as="geometry">
+            <mxPoint x="1180" y="1275" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1205" y="1275" />
+              <mxPoint x="1175" y="1275" />
+            </Array>
+            <mxPoint x="1550" y="1275" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-211" value="indique que les crédits sont mis à jour&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=0.513;entryY=0.655;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-196" target="qdlLrYearcyVOZp8sTBb-190">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1150" y="1315" as="sourcePoint" />
+            <Array as="points" />
+            <mxPoint x="740" y="1315" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-212" value="les participants reçoivent une confirmation de mise à jour des crédits ainsi que leur nouveau solde crédit" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-191" target="qdlLrYearcyVOZp8sTBb-186">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="1315" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="195" y="1315" />
+            </Array>
+            <mxPoint x="670" y="1315" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-213" value="si l&#39;évaluation côté passager est négative&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-186" target="qdlLrYearcyVOZp8sTBb-191">
+          <mxGeometry x="0.0027" relative="1" as="geometry">
+            <mxPoint x="140" y="1355" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="225" y="1355" />
+            </Array>
+            <mxPoint x="670" y="1355" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-214" value="transmets les données qui vont être signalées à un employé&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-190" target="qdlLrYearcyVOZp8sTBb-195">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="740" y="1355" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="765" y="1355" />
+              <mxPoint x="735" y="1355" />
+            </Array>
+            <mxPoint x="1140" y="1355" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-215" value="procède au blocage temporaire de la mise à jour des crédits&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0019" relative="1" as="geometry">
+            <mxPoint x="1179.3888888888887" y="1355" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1225" y="1510" />
+              <mxPoint x="1195" y="1510" />
+            </Array>
+            <mxPoint x="1579.5000000000005" y="1355" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-216" value="renseigne son rôle et sa photo" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-187" target="qdlLrYearcyVOZp8sTBb-191">
+          <mxGeometry x="0.0027" relative="1" as="geometry">
+            <mxPoint x="128" y="945" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="213" y="945" />
+            </Array>
+            <mxPoint x="690" y="945" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-217" value="transmets l&#39;information que le trajet peut être clôturé normalement" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;entryX=0.633;entryY=0.821;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-190" target="qdlLrYearcyVOZp8sTBb-196">
+          <mxGeometry x="0.0019" relative="1" as="geometry">
+            <mxPoint x="720" y="1435" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="735" y="1435" />
+              <mxPoint x="705" y="1435" />
+            </Array>
+            <mxPoint x="1170" y="1435" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-218" value="transmets les données à la base" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-190" target="qdlLrYearcyVOZp8sTBb-196">
+          <mxGeometry x="0.0027" relative="1" as="geometry">
+            <mxPoint x="720" y="945" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="808" y="945" />
+            </Array>
+            <mxPoint x="1290" y="945" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-219" value="génère l&#39;attribution de 20 crédits" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-195" target="qdlLrYearcyVOZp8sTBb-197">
+          <mxGeometry x="0.0027" relative="1" as="geometry">
+            <mxPoint x="1200" y="945" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1259" y="945" />
+            </Array>
+            <mxPoint x="1500" y="945" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-220" value="le conducteur donne des explications, soit le problème est résolu et l&#39;employé clôture le litige" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-187" target="qdlLrYearcyVOZp8sTBb-190">
+          <mxGeometry x="0.0027" relative="1" as="geometry">
+            <mxPoint x="140" y="1435" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="225" y="1435" />
+            </Array>
+            <mxPoint x="660" y="1435" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-221" value="transmets à la base que le trajet à commencé&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" target="qdlLrYearcyVOZp8sTBb-196">
+          <mxGeometry x="0.0019" relative="1" as="geometry">
+            <mxPoint x="700" y="1155" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="725" y="1155" />
+              <mxPoint x="695" y="1155" />
+            </Array>
+            <mxPoint x="1160" y="1155" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-222" value="transmets à la base que le trajet s&#39;est terminé&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" target="qdlLrYearcyVOZp8sTBb-196">
+          <mxGeometry x="0.0019" relative="1" as="geometry">
+            <mxPoint x="700" y="1199.44" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="725" y="1199.44" />
+              <mxPoint x="695" y="1199.44" />
+            </Array>
+            <mxPoint x="1160" y="1199.44" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-223" value="le conducteur donne des explications, soit le problème n&#39;est pas résolu et l&#39;employé annule le paiement" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-187" target="qdlLrYearcyVOZp8sTBb-190">
+          <mxGeometry x="0.0027" relative="1" as="geometry">
+            <mxPoint x="130" y="1475" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="215" y="1475" />
+            </Array>
+            <mxPoint x="680" y="1475" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-224" value="procède à la mise à jour des crédits passager&amp;nbsp;&lt;div&gt;(qui sont débités) et conducteur (qui est crédité)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-196" target="qdlLrYearcyVOZp8sTBb-198">
+          <mxGeometry x="0.0019" relative="1" as="geometry">
+            <mxPoint x="1220" y="1435" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1245" y="1435" />
+              <mxPoint x="1215" y="1435" />
+            </Array>
+            <mxPoint x="1680" y="1435" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-225" value="transmets l&#39;information que le trajet peut être clôturé sans paiement" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-190" target="qdlLrYearcyVOZp8sTBb-195">
+          <mxGeometry x="0.0019" relative="1" as="geometry">
+            <mxPoint x="740" y="1475" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="765" y="1475" />
+              <mxPoint x="735" y="1475" />
+            </Array>
+            <mxPoint x="1150" y="1475" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-226" value="vérifie la disponibilité de la place, sinon renvoie les propositions les plus proches en terme de date" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="0.0019" relative="1" as="geometry">
+            <mxPoint x="699.3888888888889" y="1045" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="765" y="1045" />
+              <mxPoint x="735" y="1045" />
+            </Array>
+            <mxPoint x="1179.5000000000005" y="1045" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-227" value="le conducteur est contacté par un employé pour éclaircir le problème" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-191" target="qdlLrYearcyVOZp8sTBb-186">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="140" y="1395" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="216" y="1395" />
+            </Array>
+            <mxPoint x="670" y="1395" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
