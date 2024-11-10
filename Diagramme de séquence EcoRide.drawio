@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="Conducteur" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-1" value="Conducteur" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#E6FFCC;" parent="1" vertex="1">
           <mxGeometry x="40" y="40" width="100" height="730" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
@@ -18,7 +18,7 @@
         <mxCell id="aM9ryv3xv72pqoxQDRHE-4" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-1" vertex="1">
           <mxGeometry x="50" y="150" width="10" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="Application de covoiturage" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="1" vertex="1">
+        <mxCell id="aM9ryv3xv72pqoxQDRHE-5" value="Application de covoiturage" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#66FFFF;" parent="1" vertex="1">
           <mxGeometry x="620" y="40" width="100" height="730" as="geometry" />
         </mxCell>
         <mxCell id="aM9ryv3xv72pqoxQDRHE-6" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" parent="aM9ryv3xv72pqoxQDRHE-5" vertex="1">
@@ -51,13 +51,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-1" value="Base de données" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="qdlLrYearcyVOZp8sTBb-1" value="Base de données" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#FF9999;" vertex="1" parent="1">
           <mxGeometry x="1100" y="35" width="100" height="740" as="geometry" />
         </mxCell>
         <mxCell id="qdlLrYearcyVOZp8sTBb-2" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="qdlLrYearcyVOZp8sTBb-1">
           <mxGeometry x="45" y="80" width="10" height="640" as="geometry" />
         </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-47" value="Crédits" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+        <mxCell id="qdlLrYearcyVOZp8sTBb-47" value="Crédits" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=0;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};fillColor=#FFCC99;" vertex="1" parent="1">
           <mxGeometry x="1500" y="35" width="100" height="730" as="geometry" />
         </mxCell>
         <mxCell id="qdlLrYearcyVOZp8sTBb-48" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="qdlLrYearcyVOZp8sTBb-47">
@@ -177,59 +177,52 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-88" value="indique que les crédits sont mis à jour&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="qdlLrYearcyVOZp8sTBb-88" value="indique que les crédits sont mis à jour&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;entryX=0.513;entryY=0.655;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-2" target="aM9ryv3xv72pqoxQDRHE-5">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1120" y="660" as="sourcePoint" />
+            <mxPoint x="1120" y="520" as="sourcePoint" />
             <Array as="points" />
-            <mxPoint x="710" y="660" as="targetPoint" />
+            <mxPoint x="710" y="520" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-89" value="les participants reçoivent une confirmation de mise à jour des crédits ainsi que leur nouveau solde crédit" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="qdlLrYearcyVOZp8sTBb-89" value="les participants reçoivent une confirmation de mise à jour des crédits ainsi que leur nouveau solde crédit" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="100" y="660" as="targetPoint" />
+            <mxPoint x="110" y="520" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="195" y="660" />
+              <mxPoint x="165" y="520" />
             </Array>
-            <mxPoint x="670" y="660" as="sourcePoint" />
+            <mxPoint x="640" y="520" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-91" value="si l&#39;évaluation côté passager est négative&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="qdlLrYearcyVOZp8sTBb-91" value="si l&#39;évaluation côté passager est négative&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-1" target="aM9ryv3xv72pqoxQDRHE-6">
           <mxGeometry x="0.0027" relative="1" as="geometry">
-            <mxPoint x="100" y="720" as="sourcePoint" />
+            <mxPoint x="110" y="560" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="185" y="720" />
+              <mxPoint x="195" y="560" />
             </Array>
-            <mxPoint x="670" y="720" as="targetPoint" />
+            <mxPoint x="640" y="560" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-92" value="transmets les données qui vont être signalées à un employé&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="qdlLrYearcyVOZp8sTBb-92" value="transmets les données qui vont être signalées à un employé&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-5" target="qdlLrYearcyVOZp8sTBb-1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="690" y="720" as="sourcePoint" />
+            <mxPoint x="710" y="560" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="715" y="720" />
-              <mxPoint x="685" y="720" />
+              <mxPoint x="735" y="560" />
+              <mxPoint x="705" y="560" />
             </Array>
-            <mxPoint x="1150" y="720" as="targetPoint" />
+            <mxPoint x="1110" y="560" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qdlLrYearcyVOZp8sTBb-93" value="procède au blocage temporaire de la mise à jour des crédits&amp;nbsp;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
           <mxGeometry x="0.0019" relative="1" as="geometry">
-            <mxPoint x="1130" y="720" as="sourcePoint" />
+            <mxPoint x="1149.3888888888887" y="560" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1155" y="720" />
-              <mxPoint x="1125" y="720" />
+              <mxPoint x="1195" y="715" />
+              <mxPoint x="1165" y="715" />
             </Array>
-            <mxPoint x="1590" y="720" as="targetPoint" />
+            <mxPoint x="1549.5000000000005" y="560" as="targetPoint" />
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-94" value="le conducteur est contacté par un employé pour éclaircir le problème" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="770" as="sourcePoint" />
-            <Array as="points" />
-            <mxPoint x="190" y="770" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="qdlLrYearcyVOZp8sTBb-95" value="renseigne son rôle et sa photo" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="aM9ryv3xv72pqoxQDRHE-6">
@@ -242,14 +235,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-97" value="transmets l&#39;information que le trajet peut être clôturé normalement" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="qdlLrYearcyVOZp8sTBb-97" value="transmets l&#39;information que le trajet peut être clôturé normalement" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;entryX=0.633;entryY=0.821;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-5" target="qdlLrYearcyVOZp8sTBb-2">
           <mxGeometry x="0.0019" relative="1" as="geometry">
-            <mxPoint x="670" y="810" as="sourcePoint" />
+            <mxPoint x="690" y="640" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="695" y="810" />
-              <mxPoint x="665" y="810" />
+              <mxPoint x="705" y="640" />
+              <mxPoint x="675" y="640" />
             </Array>
-            <mxPoint x="1130" y="810" as="targetPoint" />
+            <mxPoint x="1140" y="640" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -532,13 +525,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-140" value="le conducteur donne des explications, soit le problème est résolu et l&#39;employé clôture le litige" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="qdlLrYearcyVOZp8sTBb-140" value="le conducteur donne des explications, soit le problème est résolu et l&#39;employé clôture le litige" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="aM9ryv3xv72pqoxQDRHE-5">
           <mxGeometry x="0.0027" relative="1" as="geometry">
-            <mxPoint x="110" y="810" as="sourcePoint" />
+            <mxPoint x="110" y="640" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="195" y="810" />
+              <mxPoint x="195" y="640" />
             </Array>
-            <mxPoint x="680" y="810" as="targetPoint" />
+            <mxPoint x="630" y="640" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -564,42 +557,35 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-143" value="transmets les informations nécessaires à l&#39;employé" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" target="aM9ryv3xv72pqoxQDRHE-5">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1140" y="770" as="sourcePoint" />
-            <Array as="points" />
-            <mxPoint x="730" y="770" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-144" value="le conducteur donne des explications, soit le problème n&#39;est pas résolu et l&#39;employé annule le paiement" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="qdlLrYearcyVOZp8sTBb-144" value="le conducteur donne des explications, soit le problème n&#39;est pas résolu et l&#39;employé annule le paiement" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-2" target="aM9ryv3xv72pqoxQDRHE-5">
           <mxGeometry x="0.0027" relative="1" as="geometry">
-            <mxPoint x="110" y="850" as="sourcePoint" />
+            <mxPoint x="100" y="680" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="195" y="850" />
+              <mxPoint x="185" y="680" />
             </Array>
-            <mxPoint x="680" y="850" as="targetPoint" />
+            <mxPoint x="650" y="680" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-145" value="procède à la mise à jour des crédits passager (qui sont débités) et conducteur (qui est crédité)" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="qdlLrYearcyVOZp8sTBb-145" value="procède à la mise à jour des crédits passager&amp;nbsp;&lt;div&gt;(qui sont débités) et conducteur (qui est crédité)&lt;/div&gt;" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" source="qdlLrYearcyVOZp8sTBb-2" target="qdlLrYearcyVOZp8sTBb-48">
           <mxGeometry x="0.0019" relative="1" as="geometry">
-            <mxPoint x="1140" y="810" as="sourcePoint" />
+            <mxPoint x="1190" y="640" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="1165" y="810" />
-              <mxPoint x="1135" y="810" />
+              <mxPoint x="1215" y="640" />
+              <mxPoint x="1185" y="640" />
             </Array>
-            <mxPoint x="1600" y="810" as="targetPoint" />
+            <mxPoint x="1650" y="640" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-146" value="transmets l&#39;information que le trajet peut être clôturé sans paiement" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1">
+        <mxCell id="qdlLrYearcyVOZp8sTBb-146" value="transmets l&#39;information que le trajet peut être clôturé sans paiement" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=horizontal;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-5" target="qdlLrYearcyVOZp8sTBb-1">
           <mxGeometry x="0.0019" relative="1" as="geometry">
-            <mxPoint x="680" y="850" as="sourcePoint" />
+            <mxPoint x="710" y="680" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="705" y="850" />
-              <mxPoint x="675" y="850" />
+              <mxPoint x="735" y="680" />
+              <mxPoint x="705" y="680" />
             </Array>
-            <mxPoint x="1140" y="850" as="targetPoint" />
+            <mxPoint x="1120" y="680" as="targetPoint" />
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
@@ -621,6 +607,15 @@
             </Array>
             <mxPoint x="1149.5000000000005" y="250" as="targetPoint" />
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qdlLrYearcyVOZp8sTBb-149" value="le conducteur est contacté par un employé pour éclaircir le problème" style="html=1;verticalAlign=bottom;endArrow=open;dashed=1;endSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-6" target="aM9ryv3xv72pqoxQDRHE-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="600" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="186" y="600" />
+            </Array>
+            <mxPoint x="640" y="600" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
