@@ -519,7 +519,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="qdlLrYearcyVOZp8sTBb-137" value="xxxx" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-5" target="qdlLrYearcyVOZp8sTBb-2">
+        <mxCell id="qdlLrYearcyVOZp8sTBb-137" value="transmets les données à la base" style="html=1;verticalAlign=bottom;endArrow=block;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" parent="1" source="aM9ryv3xv72pqoxQDRHE-5" target="qdlLrYearcyVOZp8sTBb-2">
           <mxGeometry x="0.0027" relative="1" as="geometry">
             <mxPoint x="690" y="150" as="sourcePoint" />
             <Array as="points">
